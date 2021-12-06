@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭  &nbsp; I’m currently working on [Tobs](https://github.com/timescale/tobs) & [Promscale](https://github.com/timescale/promscale).
+- 🔭  &nbsp; I’m currently working on [Tobs](https://github.com/timescale/tobs), [Promscale](https://github.com/timescale/promscale) & [OpenTelemetry-Operator](https://github.com/open-telemetry/opentelemetry-operator#opentelemetry-operator-for-kubernetes).
 - 🌱  &nbsp; Learning Observability, Distributed Systems, Databases & eBPF.
 - ⚙️  &nbsp; Previously Interned with [Cloud Native Computing Foundation](https://www.cncf.io).
 - 🛠️   &nbsp; Docs lead for [Kubernetes 1.18 release](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.18/release_team.md).
