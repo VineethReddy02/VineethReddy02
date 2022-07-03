@@ -14,5 +14,5 @@
      - [OPA-MongoDB data filtering](https://github.com/open-policy-agent/contrib/tree/master/data_filter_mongodb)
 - 💬  &nbsp; Ask me about Kubernetes, Observability and cloud-native tech. 
 - 🧑🏽‍🤝‍🧑🏽 &nbsp; Co-Founder and Organizer for [Cloud Native Hyderabad Community](https://www.meetup.com/Cloud-Native-Hyderabad/).
-- 📫  &nbsp; How to reach me: [@VineethReddy02](https://twitter.com/VineethReddy02)
+- 📫  &nbsp; How to reach me: [@vineeetth](https://twitter.com/vineeetth)
 - 🔍  &nbsp; Find me at [vineethweb.com](https://vineethweb.com)
