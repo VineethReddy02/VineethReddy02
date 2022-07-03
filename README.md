@@ -4,7 +4,7 @@
 - 🌱  &nbsp; Learning Observability, Distributed Systems, Databases & eBPF.
 - ⚙️  &nbsp; Previously Interned with [Cloud Native Computing Foundation](https://www.cncf.io).
 - 🛠️   &nbsp; Docs lead for [Kubernetes 1.18 release](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.18/release_team.md).
-- 🏗️  &nbsp; If you are building tools around k8s, some of my projects will help you in simulating scale environments
+- 🏗️  &nbsp; If you are building tools around k8s, some of my projects will help you in simulating large scale environments
      - [k8s-scaler](https://github.com/VineethReddy02/k8s-scaler) 
      - [mocklet](https://github.com/VineethReddy02/mocklet)
      - [kubectl-mc](https://github.com/VineethReddy02/kubectl-mc) 
