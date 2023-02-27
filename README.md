@@ -15,4 +15,4 @@
 - 💬  &nbsp; Ask me about Kubernetes, Observability and cloud-native tech. 
 - 🧑🏽‍🤝‍🧑🏽 &nbsp; Co-Founder and Organizer for [Cloud Native Hyderabad Community](https://www.meetup.com/Cloud-Native-Hyderabad/).
 - 📫  &nbsp; How to reach me: [@vineeetth](https://twitter.com/vineeetth)
-- 🔍  &nbsp; Find me at [vineethweb.com](https://vineethweb.com)
+- 🔍  &nbsp; Find me at [vineeth.fyi](https://vineeth.fyi)
